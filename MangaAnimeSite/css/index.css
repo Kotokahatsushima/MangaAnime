@@ -97,9 +97,11 @@ body{
     background-position: center;
     background-size: 200px;
     background-color: rgba(0,0,0,0.5);
-    margin: 90px;
-    margin-bottom: -40px;
     transition: 0.3s;
+    margin: 90px 30px 0px 30px;
+}
+.anilist h2{
+    font-size: 20px;
 }
 .anilist:hover{
     color: rgb(255, 121, 210);
